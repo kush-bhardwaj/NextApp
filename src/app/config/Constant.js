@@ -1,0 +1,1 @@
+export const Api_Base_Url = process.env.NODE_ENV == 'development' ? 'www.xyz.development.mode.com' :'www.xyz.production.mode.com';
